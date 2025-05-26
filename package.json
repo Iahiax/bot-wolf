@@ -1,0 +1,24 @@
+{
+  "name": "wolf-spy-bot",
+  "version": "1.0.0",
+  "description": "A Spy game bot for Wolf Live",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wolf.js",
+    "bot",
+    "spy",
+    "game",
+    "wolf-live"
+  ],
+  "author": "Your Name or Bot Name",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.4.1",
+    "wolf.js": "^1.2.8",
+    "yaml": "^2.4.2"
+  }
+}
