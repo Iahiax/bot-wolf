@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "ioredis": "^5.4.1",
-    "wolf.js": "^1.2.8",
+    "wolf.js": "^2.3.2",
     "yaml": "^2.4.2"
   }
 }
